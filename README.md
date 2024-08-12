@@ -11,7 +11,7 @@ Um site que armazena uma lista de restaurantes parceiros, feitos para agradar ta
 #### Link para o Site 🎯
 
 <div>
-    <a href="https://filmes-do-momento.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+    <a href="https://alfood-ten.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 #### ⬇️Pode me chamar no⬇️
