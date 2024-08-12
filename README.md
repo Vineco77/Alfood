@@ -5,7 +5,7 @@ Um site que armazena uma lista de restaurantes parceiros, feitos para agradar ta
 #### Fique a vontade para navegar, em caso de dúvidas estou disponível 24/7 para você 🫵
 
 <div>
-    <img src='./public/movies.gif'/>
+    <img src='./public/Alfood.gif'/>
 </div>
 
 #### Link para o Site 🎯
